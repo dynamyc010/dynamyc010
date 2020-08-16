@@ -1,4 +1,5 @@
-Hi there, fellow human! 👋
+###
+### Hey there, fellow human! 👋
 # I'm dynamyc! Your friendly neighbourhood bacon flavored doggo!
 ![Niko from OneShot!](https://dynamyc010.hiitsdevin.dev/captures/dynamyc010_438871.png)
 
