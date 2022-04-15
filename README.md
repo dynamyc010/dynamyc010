@@ -1,25 +1,25 @@
 ###
 ### Hey there, fellow human! 👋
-# I'm dynamyc! Your friendly multiverse Hat Kid!
-![Niko from OneShot!](https://dynamyc010.hiitsdevin.dev/captures/dynamyc010_438871.png)
+# I'm dynamyc! Just an another wannabe dev!
 
 ### Most of the repos you find on my page are school/learning related, or just forks of other repos that I haven't touched yet. (probably)
 
 ## Some notable things:
-- I'm a proud helper on the Dude, Stop Discord server! ([Join!](https://discord.com/invite/SdWBfVS))
--  One of my biggest projects here on GitHub was G4X's Discord Integration that you can find [here](https://github.com/Team-G4/g4x)!
-Sadly that project died down, so you won't see anything happening in there. 
-- I sometimes make A Hat in Time mods. Tho I'm not known for that.
+- I'm currently studying software development in school, though most of my knowledge isn't from that.
+- I was part of G4X group (find that [here](https://github.com/Team-G4/g4x)), but that's on hold right now.
+- I co-developed (at launch time) the [Cyberpunk 2077 Performance Patcher](https://github.com/asoji/Cyberpunk2077-PerformancePatcher)! (Works up until 1.05, **NOT 1.5**)
 - what is life
+
+I wish to do many other cool things in the future! Though right now I prefer smalller projects, maybe gonna change that later on.
 
 ## You can reach me on:
 - Steam @ [id/szalonnamester](https://steamcommunity.com/id/szalonnamester/)
-- Twitter @ [dynamyc010](twitter.com/dynamyc010)
-- Twitch @ [dynamyc010](twitch.tv/dynamyc010)
-- Discord @ [dynamyc, but Hat Kid#0966](https://discord.com/invite/SdWBfVS) (points to the Dude, Stop server)
+- Twitter @ [dynamyc010](https://twitter.com/dynamyc010)
+- Twitch @ [dynamyc010](https://twitch.tv/dynamyc010)
+- Discord @ [dynamyc#5555](https://discord.com/users/140768241151770624) 
 - Uplay @ [dynamyc010](https://club.ubisoft.com/en-US/profile/dynamyc010)
 - Speedrun.<span></span>com @ [dynamyc](https://www.speedrun.com/user/dynamyc)
-- Nintendo @ [SW-4619-5439-3585](https://accounts.nintendo.com/)
+- Nintendo @ [SW-4619-5439-3585](https://accounts.nintendo.com/) (Unused, no Switch :c)
 - PlayStation Network @ [Dynamyc010](https://my.playstation.com/profile/Dynamyc010)
 
 <!--
