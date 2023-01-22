@@ -19,7 +19,7 @@ I wish to do many other cool things in the future! Though right now I prefer sma
 - Discord @ [dynamyc#5555](https://discord.com/users/140768241151770624) 
 - Uplay @ [dynamyc010](https://club.ubisoft.com/en-US/profile/dynamyc010)
 - Speedrun.<span></span>com @ [dynamyc](https://www.speedrun.com/user/dynamyc)
-- Nintendo @ [SW-4619-5439-3585](https://accounts.nintendo.com/) (Unused, no Switch :c)
+- Nintendo @ [SW-4619-5439-3585](https://accounts.nintendo.com/) (Currently in temporary possession of one Nintendo Switch game console)
 - PlayStation Network @ [Dynamyc010](https://my.playstation.com/profile/Dynamyc010)
 
 <!--
