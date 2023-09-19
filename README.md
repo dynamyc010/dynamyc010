@@ -5,21 +5,23 @@
 ### Most of the repos you find on my page are school/learning related, or just forks of other repos that I haven't touched yet. (probably)
 
 ## Some notable things:
+- I'm studying Computer Science & Engineering in Óbuda University!
 - I'm currently studying software development in school, though most of my knowledge isn't from that.
 - I was part of G4X group (find that [here](https://github.com/Team-G4/g4x)), but that's on hold right now.
-- I co-developed (at launch time) the [Cyberpunk 2077 Performance Patcher](https://github.com/asoji/Cyberpunk2077-PerformancePatcher)! (Works up until 1.05, **NOT 1.5**)
+- I co-developed (at launch time) the [Cyberpunk 2077 Performance Patcher](https://github.com/asoji/Cyberpunk2077-PerformancePatcher)! (Works up until 1.04, **NOT 1.4**)
 - what is life
 
-I wish to do many other cool things in the future! Though right now I prefer smalller projects, maybe gonna change that later on.
+I wish to do many other cool things in the future! Though right now I prefer smaller projects, maybe gonna change that later on.
 
 ## You can reach me on:
 - Steam @ [id/szalonnamester](https://steamcommunity.com/id/szalonnamester/)
 - Twitter @ [dynamyc010](https://twitter.com/dynamyc010)
+- BlueSky @ [dynamyc.me](https://bsky.app/profile/dynamyc.me)
 - Twitch @ [dynamyc010](https://twitch.tv/dynamyc010)
-- Discord @ [dynamyc#5555](https://discord.com/users/140768241151770624) 
+- Discord @ [dynamyc](https://discord.com/users/140768241151770624) 
 - Uplay @ [dynamyc010](https://club.ubisoft.com/en-US/profile/dynamyc010)
 - Speedrun.<span></span>com @ [dynamyc](https://www.speedrun.com/user/dynamyc)
-- Nintendo @ [SW-4619-5439-3585](https://accounts.nintendo.com/) (Currently in temporary possession of one Nintendo Switch game console)
+- Nintendo @ [SW-4619-5439-3585](https://accounts.nintendo.com/) (Currently not in possession of a Nintendo Switch game console)
 - PlayStation Network @ [Dynamyc010](https://my.playstation.com/profile/Dynamyc010)
 
 <!--
