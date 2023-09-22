@@ -5,8 +5,7 @@
 ### Most of the repos you find on my page are school/learning related, or just forks of other repos that I haven't touched yet. (probably)
 
 ## Some notable things:
-- I'm studying Computer Science & Engineering in Óbuda University!
-- I'm currently studying software development in school, though most of my knowledge isn't from that.
+- I'm studying Computer Science & Engineering at Óbuda University!
 - I was part of G4X group (find that [here](https://github.com/Team-G4/g4x)), but that's on hold right now.
 - I co-developed (at launch time) the [Cyberpunk 2077 Performance Patcher](https://github.com/asoji/Cyberpunk2077-PerformancePatcher)! (Works up until 1.04, **NOT 1.4**)
 - what is life
