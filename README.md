@@ -24,7 +24,7 @@ I wish to do many other cool things in the future! Though right now I prefer sma
 - PlayStation Network @ [Dynamyc010](https://my.playstation.com/profile/Dynamyc010)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.50; background: url('https://github.com/dynamyc010/dynamyc010/blob/master/background.jpg?raw=true');background-size: cover; background-repeat: no-repeat;background-position:right bottom;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.50; background: url('https://github.com/dynamyc010/dynamyc010/blob/master/background.jpg?raw=true');background-size: cover; background-repeat: no-repeat;background-position:middle;]{x0000}$}
 
 <!--
 **dynamyc010/dynamyc010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
