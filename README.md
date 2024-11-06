@@ -14,14 +14,19 @@ I wish to do many other cool things in the future! Though right now I prefer sma
 
 ## You can reach me on:
 - Steam @ [id/szalonnamester](https://steamcommunity.com/id/szalonnamester/)
-- Twitter @ [dynamyc010](https://twitter.com/dynamyc010)
+- Fediverse Main @ [dynamyc@nyanya.gay](https://nyaynya.gay/dynamyc)
+- Fediverse Backup @ [dynamyc@kitty.social](https://kitty.social/dynamyc)
 - BlueSky @ [dynamyc.me](https://bsky.app/profile/dynamyc.me)
+- Matrix @ [dynamyc:nyanya.gay](https://matrix.nyanya.gay)
 - Twitch @ [dynamyc010](https://twitch.tv/dynamyc010)
 - Discord @ [dynamyc](https://discord.com/users/140768241151770624) 
 - Uplay @ [dynamyc010](https://club.ubisoft.com/en-US/profile/dynamyc010)
 - Speedrun.<span></span>com @ [dynamyc](https://www.speedrun.com/user/dynamyc)
+- Twitter @ [dynamyc010](https://twitter.com/dynamyc010) (Unused)
 - Nintendo @ [SW-4619-5439-3585](https://accounts.nintendo.com/) (Currently not in possession of a Nintendo Switch game console)
 - PlayStation Network @ [Dynamyc010](https://my.playstation.com/profile/Dynamyc010)
+
+(this might be out of date; check out [my site](https://dynamyc.me) for more up-to-date information
 
 <!--
 ```math
