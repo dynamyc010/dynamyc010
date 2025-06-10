@@ -14,8 +14,8 @@
 
 ## You can reach me on:
 - Steam @ [id/szalonnamester](https://steamcommunity.com/id/szalonnamester/)
-- Fediverse Main @ [dynamyc@nyanya.gay](https://nyanya.gay/dynamyc)
-- Fediverse Backup @ [dynamyc@kitty.social](https://kitty.social/dynamyc)
+- Fediverse Main @ [dynamyc@nyanya.gay](https://nyanya.gay/@dynamyc)
+- Fediverse Backup @ [dynamyc@kitty.social](https://kitty.social/@dynamyc)
 - BlueSky @ [dynamyc.me](https://bsky.app/profile/dynamyc.me)
 - Matrix @ [dynamyc:nyanya.gay](https://matrix.nyanya.gay)
 - Twitch @ [dynamyc010](https://twitch.tv/dynamyc010)
