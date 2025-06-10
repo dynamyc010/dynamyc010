@@ -9,7 +9,7 @@
 - I was part of G4X group (find that [here](https://github.com/Team-G4/g4x)), but that's on hold right now.
 - I co-developed (at launch time) the [Cyberpunk 2077 Performance Patcher](https://github.com/asoji/Cyberpunk2077-PerformancePatcher)! (Works up until 1.04, **NOT 1.4**)
 - I made [Moodleee](https://github.com/dynamyc010/moodleee), a Discord Bot to gather your information about things you might still need to do.
-- I started work on [Neptun PowerUp's](https://github.com/dynamyc010/npu)'s rewrite, for the new modern Neptun system, but due to lack of time and energy, it's been put on hold for now.
+- I started work on [Neptun PowerUp](https://github.com/dynamyc010/npu)'s rewrite, for the new modern Neptun system, but due to lack of time and energy, it's been put on hold for now.
 - Other smaller contributions all around.
 
 ## You can reach me on:
