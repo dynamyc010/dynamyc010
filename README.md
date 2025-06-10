@@ -4,8 +4,6 @@
 
 ### Mostly vibing, but this README might be abit out of date. Feel free to check out my [website](https://dynamyc.me) for more up-to-date(-ish) information.
 
-
-
 ## Nonetheless, here are some notable things:
 - I'm studying Computer Science & Engineering at Óbuda University!
 - I was part of G4X group (find that [here](https://github.com/Team-G4/g4x)), but that's on hold right now.
